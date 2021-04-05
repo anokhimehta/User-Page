@@ -2,7 +2,7 @@
 
 ## **About me**:
 
-![anokhi](IMG_0048.jpg | width=75) Hi, I'm Anokhi!
+![anokhi](IMG_0048.jpg =50x100) Hi, I'm Anokhi!
 - I am a sophmore studying Computer Science at UCSD
 - I am a CSE 110 Software Engineering Student
 - I hope to become a software engineer one day!
