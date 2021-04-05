@@ -31,6 +31,12 @@ Some languages that I have learned include:
 - Javascript
 - Swift
 
+Some goals I have for this quarter are:
+-[] Become familiar with the software development process
+-[] Get straight A's
+-[] Be more outgoing and try to meet people virtually!
+-[] Learn new skills such as React and Angular
+
 Here's a quote that I think applies to Computer Science very well!
 As Albert Einstein said:
 > Creativity is intelligence having fun
