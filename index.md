@@ -4,13 +4,13 @@
 
 ## **About me**:
 ![anokhi](https://github.com/anokhimehta/User-Page/blob/main/IMG_0048.jpg) Hi, I'm Anokhi!
-### I am a sophmore studying Computer Science at UCSD
-### I hope to become a software engineer one day!
-### I love to dance and I'm a dancer on UCSD's collegiate raas-garba dance team called UCSD Raas Ruckus
-#### *Click [here](https://www.youtube.com/watch?v=IEmuCr9zv6I) to watch one of our performances! 
-#### Here's a picture of me and my team at one of my dance competitions: 
+- I am a sophmore studying Computer Science at UCSD
+- I hope to become a software engineer one day!
+- I love to dance and I'm a dancer on UCSD's collegiate raas-garba dance team called UCSD Raas Ruckus
+##### *Click [here](https://www.youtube.com/watch?v=IEmuCr9zv6I) to watch one of our performances*! 
+##### *Here's a picture of me and my team at one of my dance competitions:* 
 ![ruckus](https://github.com/anokhimehta/User-Page/blob/main/Ruckus.jpg)
-### I am also a participant in SFL and am an active member of Phi Sigma Rho!
+- I am also a participant in SFL and am an active member of Phi Sigma Rho!
 
 ## My favorite foods:
 1. Pad thai
