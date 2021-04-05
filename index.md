@@ -22,10 +22,9 @@
 System.out.print("Hello World!);
 ```
 
-Here is my README if you would like to learn something else about me!
-I love git.
+Here is my [README](https://github.com/anokhimehta/User-Page/blob/main/README.md) if you would like to learn something else about me!
 
-##Some languages that I have learned include:
+Some languages that I have learned include:
 - Java
 - C++
 - C
