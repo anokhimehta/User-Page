@@ -27,6 +27,7 @@ System.out.print("Hello World!);
 ```
 
 Here is my README if you would like to learn something else about me!
+I love git.
 
 ##Some languages that I have learned include:
 - Java
