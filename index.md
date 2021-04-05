@@ -1,10 +1,8 @@
-### Scroll down to learn more [about me](#About-me)!
-
 ## **About me**:
 
 <img src="IMG_0048.jpg" alt="anokhi" width="50">
 
-![anokhi](IMG_0048.jpg) Hi, I'm Anokhi!
+Hi, I'm Anokhi!
 - I am a sophmore studying Computer Science at UCSD
 - I am a CSE 110 Software Engineering Student
 - I hope to become a software engineer one day!
@@ -15,13 +13,13 @@
 ![ruckus](Ruckus.jpg)
 - I am also a participant in SFL and am an active member of Phi Sigma Rho!
 
-## My favorite foods:
+### My favorite foods:
 1. Pad thai
 2. Spicy fried rice
 3. Boba
 4. Ramen
 
-Here is the first line of code I ever wrote:
+*Here is the first line of code I ever wrote:*
 ```
 System.out.print("Hello World!);
 ```
@@ -40,3 +38,5 @@ As Albert Einstein said:
 > Creativity is intelligence having fun
 
 I used [GitHub Docs](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) to help me create this page.
+
+Click here to go back to the [top](#about-me) of the page!
