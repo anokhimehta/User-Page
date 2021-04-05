@@ -1,14 +1,15 @@
-## Welcome to my userpage!
-## *I am a CSE 110 Software Engineering Student*
 ### Scroll down to learn more [about me](#About-me)!
 
 ## **About me**:
+
 ![anokhi](IMG_0048.jpg =75x) Hi, I'm Anokhi!
 - I am a sophmore studying Computer Science at UCSD
+- I am a CSE 110 Software Engineering Student
 - I hope to become a software engineer one day!
 - I love to dance and I'm a dancer on UCSD's collegiate raas-garba dance team called UCSD Raas Ruckus
 ##### *Click [here](https://www.youtube.com/watch?v=IEmuCr9zv6I) to watch one of our performances*! 
 ##### *Here's a picture of me and my team at one of my dance competitions:* 
+
 ![ruckus](Ruckus.jpg =100x)
 - I am also a participant in SFL and am an active member of Phi Sigma Rho!
 
