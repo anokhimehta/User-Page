@@ -2,7 +2,7 @@
 
 ## **About me**:
 
-<img src="IMG_0048.jpg" alt="anokhi" width="50" height="100">
+<img src="IMG_0048.jpg" alt="anokhi" width="50">
 
 ![anokhi](IMG_0048.jpg) Hi, I'm Anokhi!
 - I am a sophmore studying Computer Science at UCSD
